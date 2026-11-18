@@ -9,10 +9,10 @@
     "mode": "contain",
     "framing": "fit",
     "content_box": [
-      0,
-      0,
-      1152,
-      2048
+      54,
+      21,
+      1096,
+      2032
     ],
     "content_box_raw": [
       54,
@@ -20,13 +20,21 @@
       1096,
       2032
     ],
+    "framing_box": [
+      0,
+      0,
+      1152,
+      2048
+    ],
+    "centered": true,
     "blank_trimmed": false,
     "box": null,
     "output": "成品/3642529461809365c6e0929f47a57b62852018bebbfdad603870f96f9814057b_758x1024.png",
     "gray_levels": 16,
     "blank_frac": 0.6168,
-    "blank_frac_before": 0.6222,
-    "sha256": "160f07b0bcad8a68bd47f5b6beea2fdc425325e02e7be501cdc7c768805ee121"
+    "blank_frac_before": 0.6168,
+    "char_center_x": 379.496,
+    "sha256": "4525b38a49bc07263bb8eb8aff3cc86466761c843af4af96bb7abb6cf2e1c67d"
   },
   {
     "source": "原图/AWS.jpg",
@@ -38,10 +46,10 @@
     "mode": "contain",
     "framing": "fit",
     "content_box": [
-      0,
-      0,
-      1152,
-      2048
+      1,
+      6,
+      1148,
+      2047
     ],
     "content_box_raw": [
       1,
@@ -49,13 +57,21 @@
       1148,
       2047
     ],
+    "framing_box": [
+      0,
+      0,
+      1152,
+      2048
+    ],
+    "centered": true,
     "blank_trimmed": false,
     "box": null,
     "output": "成品/AWS_758x1024.png",
     "gray_levels": 16,
     "blank_frac": 0.6139,
     "blank_frac_before": 0.6139,
-    "sha256": "01ffa73bf140070e8639de43d7b7e1f9bd940ec3e4edba30e5c369dba667b34a"
+    "char_center_x": 379.25,
+    "sha256": "dc8e2fe90026c9291d5a6474a5d92a2c6572e67739ac48a36a44c5b398b671b4"
   },
   {
     "source": "原图/Ascend.jpg",
@@ -67,10 +83,10 @@
     "mode": "contain",
     "framing": "fit",
     "content_box": [
-      49,
-      0,
-      1152,
-      2048
+      119,
+      7,
+      1118,
+      2039
     ],
     "content_box_raw": [
       119,
@@ -78,13 +94,21 @@
       1118,
       2039
     ],
+    "framing_box": [
+      49,
+      0,
+      1152,
+      2048
+    ],
+    "centered": true,
     "blank_trimmed": true,
     "box": null,
     "output": "成品/Ascend_758x1024.png",
     "gray_levels": 16,
     "blank_frac": 0.6774,
-    "blank_frac_before": 0.6789,
-    "sha256": "73af31c27f2440ccfda93176bc21a0a452d950943404e660246c10fef3402981"
+    "blank_frac_before": 0.6774,
+    "char_center_x": 378.528,
+    "sha256": "c119a0875141cb0726e864ac38e1d479d378387ca05f27dcff459ba74e9cf042"
   },
   {
     "source": "原图/CloudFlare.jpg",
@@ -96,8 +120,8 @@
     "mode": "contain",
     "framing": "fit",
     "content_box": [
-      0,
-      0,
+      6,
+      13,
       1152,
       2048
     ],
@@ -107,13 +131,21 @@
       1152,
       2048
     ],
+    "framing_box": [
+      0,
+      0,
+      1152,
+      2048
+    ],
+    "centered": true,
     "blank_trimmed": false,
     "box": null,
     "output": "成品/CloudFlare_758x1024.png",
     "gray_levels": 16,
     "blank_frac": 0.64,
     "blank_frac_before": 0.64,
-    "sha256": "8a2a3d6ad9ff34b45c2486c4b8f5fdf4c1042092776278e70306da0797a4e1b5"
+    "char_center_x": 379.5,
+    "sha256": "f616b6b37d018270cf12b626a858d638d97e1bd797a2edcbf4b60b82bcf3f685"
   },
   {
     "source": "原图/DeepSeekV4Flash.jpg",
@@ -125,10 +157,10 @@
     "mode": "contain",
     "framing": "fit",
     "content_box": [
-      13,
-      0,
-      1536,
-      2752
+      109,
+      96,
+      1484,
+      2727
     ],
     "content_box_raw": [
       109,
@@ -136,13 +168,21 @@
       1484,
       2727
     ],
+    "framing_box": [
+      13,
+      0,
+      1536,
+      2752
+    ],
+    "centered": true,
     "blank_trimmed": true,
     "box": null,
     "output": "成品/DeepSeekV4Flash_758x1024.png",
     "gray_levels": 16,
     "blank_frac": 0.7202,
-    "blank_frac_before": 0.7243,
-    "sha256": "7e48efb52dc63b5a61370c84d2a4a1682f729def58cbba7337299d94690db173"
+    "blank_frac_before": 0.7202,
+    "char_center_x": 378.754,
+    "sha256": "04f20f28269c5cb6161b6b3c20b657f1dcddfdeefaa6fc345264d01c61b95db4"
   },
   {
     "source": "原图/GeminiAr.jpg",
@@ -154,10 +194,10 @@
     "mode": "contain",
     "framing": "fit",
     "content_box": [
-      0,
-      0,
-      941,
-      1672
+      26,
+      28,
+      928,
+      1657
     ],
     "content_box_raw": [
       26,
@@ -165,13 +205,21 @@
       928,
       1657
     ],
+    "framing_box": [
+      0,
+      0,
+      941,
+      1672
+    ],
+    "centered": true,
     "blank_trimmed": false,
     "box": null,
     "output": "成品/Pixiv_GeminiAr_758x1024.png",
     "gray_levels": 16,
     "blank_frac": 0.7332,
-    "blank_frac_before": 0.7374,
-    "sha256": "4281e43e5b3385b0544b6319e3cb63b54d0e91d92d76dc7e16acb1026a7a3cb8"
+    "blank_frac_before": 0.7332,
+    "char_center_x": 378.513,
+    "sha256": "d48aa18905aea4755feafadcab56533f957ab380bd74b51d7b78888cd3841743"
   },
   {
     "source": "原图/GitHub.jpg",
@@ -183,10 +231,10 @@
     "mode": "contain",
     "framing": "fit",
     "content_box": [
-      11,
-      31,
-      1152,
-      2008
+      83,
+      152,
+      1108,
+      1887
     ],
     "content_box_raw": [
       83,
@@ -194,13 +242,21 @@
       1108,
       1887
     ],
+    "framing_box": [
+      11,
+      31,
+      1152,
+      2008
+    ],
+    "centered": true,
     "blank_trimmed": true,
     "box": null,
     "output": "成品/GitHub_758x1024.png",
     "gray_levels": 16,
     "blank_frac": 0.6792,
-    "blank_frac_before": 0.7229,
-    "sha256": "0d802c64aa1631399173867fc57564a0ec2814cca5bf8eedbc3ea87e6a56ffca"
+    "blank_frac_before": 0.6792,
+    "char_center_x": 379.174,
+    "sha256": "357202e74ab98fd027bc2c6ff35f8a200814b8400f799bc757f9c62928301afa"
   },
   {
     "source": "原图/GitLab.jpg",
@@ -212,10 +268,10 @@
     "mode": "contain",
     "framing": "fit",
     "content_box": [
-      151,
-      0,
-      1152,
-      2048
+      213,
+      76,
+      1104,
+      1943
     ],
     "content_box_raw": [
       213,
@@ -223,13 +279,21 @@
       1104,
       1943
     ],
+    "framing_box": [
+      151,
+      0,
+      1152,
+      2048
+    ],
+    "centered": true,
     "blank_trimmed": true,
     "box": null,
     "output": "成品/GitLab_758x1024.png",
     "gray_levels": 16,
     "blank_frac": 0.7035,
-    "blank_frac_before": 0.7208,
-    "sha256": "2c893ab28c6ede5addc25049f15bfe230e004622a6319cc9a7ec285965d96830"
+    "blank_frac_before": 0.7035,
+    "char_center_x": 378.621,
+    "sha256": "23c023a42a2762cb6d64efca5e65a69863b909b7cf41a9aba6512e47b666cf85"
   },
   {
     "source": "原图/LobeHub.jpg",
@@ -241,10 +305,10 @@
     "mode": "contain",
     "framing": "fit",
     "content_box": [
-      110,
-      0,
-      1055,
-      2048
+      168,
+      37,
+      997,
+      2028
     ],
     "content_box_raw": [
       168,
@@ -252,13 +316,21 @@
       997,
       2028
     ],
+    "framing_box": [
+      110,
+      0,
+      1055,
+      2048
+    ],
+    "centered": true,
     "blank_trimmed": true,
     "box": null,
     "output": "成品/LobeHub_758x1024.png",
     "gray_levels": 16,
     "blank_frac": 0.7018,
-    "blank_frac_before": 0.7071,
-    "sha256": "131f521aa6db7e0555c2c7174bd3c83f3b50f4a8d2b591b30605f08898500e4a"
+    "blank_frac_before": 0.7018,
+    "char_center_x": 378.5,
+    "sha256": "7275fc1678b5ba7d6e43c0dfdda951455b5e86fb33ab94f848e5e84896e412b5"
   },
   {
     "source": "原图/Midjourney.jpg",
@@ -270,10 +342,10 @@
     "mode": "contain",
     "framing": "fit",
     "content_box": [
-      0,
-      0,
-      1152,
-      2048
+      54,
+      22,
+      1096,
+      2031
     ],
     "content_box_raw": [
       54,
@@ -281,13 +353,21 @@
       1096,
       2031
     ],
+    "framing_box": [
+      0,
+      0,
+      1152,
+      2048
+    ],
+    "centered": true,
     "blank_trimmed": false,
     "box": null,
     "output": "成品/Midjourney_758x1024.png",
     "gray_levels": 16,
     "blank_frac": 0.6176,
-    "blank_frac_before": 0.6232,
-    "sha256": "6caef84acf7407aba537206ff515cd949e1f5d3ba24ffaedaa0233ca6a318ed2"
+    "blank_frac_before": 0.6176,
+    "char_center_x": 379.496,
+    "sha256": "4e65855ae635e4d8790279ed89d71ccae956bf1aada8712facbfc8cab6287b84"
   },
   {
     "source": "原图/Mistral.jpg",
@@ -299,10 +379,10 @@
     "mode": "contain",
     "framing": "fit",
     "content_box": [
-      0,
-      0,
-      3072,
-      5504
+      78,
+      40,
+      3013,
+      5469
     ],
     "content_box_raw": [
       78,
@@ -310,13 +390,21 @@
       3013,
       5469
     ],
+    "framing_box": [
+      0,
+      0,
+      3072,
+      5504
+    ],
+    "centered": true,
     "blank_trimmed": false,
     "box": null,
     "output": "成品/Mistral_758x1024.png",
     "gray_levels": 16,
     "blank_frac": 0.6621,
-    "blank_frac_before": 0.6658,
-    "sha256": "6e897f4c948821a9eca4c5951d2e6fa57674de5f61ba41288ce4de034d658ef7"
+    "blank_frac_before": 0.6621,
+    "char_center_x": 379.278,
+    "sha256": "a513e4cff03b8f9585148fef95a0b5ffdf85327e473f2ec887d90fadb858b482"
   },
   {
     "source": "原图/NovelAI.jpg",
@@ -328,10 +416,10 @@
     "mode": "contain",
     "framing": "fit",
     "content_box": [
-      0,
-      0,
-      1152,
-      2048
+      18,
+      5,
+      1133,
+      2042
     ],
     "content_box_raw": [
       18,
@@ -339,13 +427,21 @@
       1133,
       2042
     ],
+    "framing_box": [
+      0,
+      0,
+      1152,
+      2048
+    ],
+    "centered": true,
     "blank_trimmed": false,
     "box": null,
     "output": "成品/NovelAI_758x1024.png",
     "gray_levels": 16,
     "blank_frac": 0.6818,
-    "blank_frac_before": 0.683,
-    "sha256": "45f8f72bb68a6d8c0508308e30fc27c306887bb698c0549970c14e5abbe2f54e"
+    "blank_frac_before": 0.6818,
+    "char_center_x": 379.249,
+    "sha256": "3b714302ed458ccd8343467938413f0d293b8c7ccbeb87fe2abac5f61a912ac1"
   },
   {
     "source": "原图/StepFun.jpg",
@@ -357,10 +453,10 @@
     "mode": "contain",
     "framing": "fit",
     "content_box": [
-      0,
+      8,
       0,
       1152,
-      2013
+      1881
     ],
     "content_box_raw": [
       8,
@@ -368,13 +464,21 @@
       1152,
       1881
     ],
+    "framing_box": [
+      0,
+      0,
+      1152,
+      2013
+    ],
+    "centered": true,
     "blank_trimmed": true,
     "box": null,
     "output": "成品/StepFun_758x1024.png",
     "gray_levels": 16,
     "blank_frac": 0.6903,
-    "blank_frac_before": 0.7007,
-    "sha256": "d87d7bc0695f3668f8f145c0faebab1106e92c868e37ff2e59064c807280b071"
+    "blank_frac_before": 0.6903,
+    "char_center_x": 379.035,
+    "sha256": "d94f95449b9f46cee2343da02f75abf6a09971a7e24328597f6664cae4a7f0d6"
   },
   {
     "source": "原图/Zcode.jpg",
@@ -386,10 +490,10 @@
     "mode": "contain",
     "framing": "fit",
     "content_box": [
-      120,
-      0,
-      1143,
-      2048
+      183,
+      87,
+      1080,
+      1984
     ],
     "content_box_raw": [
       183,
@@ -397,13 +501,21 @@
       1080,
       1984
     ],
+    "framing_box": [
+      120,
+      0,
+      1143,
+      2048
+    ],
+    "centered": true,
     "blank_trimmed": true,
     "box": null,
     "output": "成品/Zcode_758x1024.png",
     "gray_levels": 16,
     "blank_frac": 0.6619,
-    "blank_frac_before": 0.6804,
-    "sha256": "c5f486d78a662bc7afaccae8d566290d286544f34ac0534c95cde6a3c5e19965"
+    "blank_frac_before": 0.6619,
+    "char_center_x": 379.0,
+    "sha256": "df87d4885228f4f68c4a100f7b0c37159e356e18d4725109ab6181b6a8501381"
   },
   {
     "source": "原图/053cc35432d41cd7ef50591998d2f0c3c52804dde385a994e0c8f4fede212d06.png",
@@ -415,10 +527,10 @@
     "mode": "contain",
     "framing": "fit",
     "content_box": [
-      0,
-      0,
-      1152,
-      2048
+      15,
+      7,
+      1148,
+      2017
     ],
     "content_box_raw": [
       15,
@@ -426,13 +538,21 @@
       1148,
       2017
     ],
+    "framing_box": [
+      0,
+      0,
+      1152,
+      2048
+    ],
+    "centered": true,
     "blank_trimmed": false,
     "box": null,
     "output": "成品/053cc35432d41cd7ef50591998d2f0c3c52804dde385a994e0c8f4fede212d06_758x1024.png",
     "gray_levels": 16,
     "blank_frac": 0.6456,
-    "blank_frac_before": 0.6478,
-    "sha256": "4e5e728329e0d609505062a9d78607c5a038f2bf165837bfb0b9caff61de92b3"
+    "blank_frac_before": 0.6456,
+    "char_center_x": 378.758,
+    "sha256": "d4b7db6ccaea568146061b7489032f11ebb283978c1bf5caf0fea778f1265eae"
   },
   {
     "source": "原图/0e93963c2b2675b1d1c1cdecbf490e1ab13bba8cfabf37dcf344ff048e3af32e.png",
@@ -444,10 +564,10 @@
     "mode": "contain",
     "framing": "fit",
     "content_box": [
-      0,
-      0,
-      1152,
-      2048
+      46,
+      22,
+      1098,
+      2010
     ],
     "content_box_raw": [
       46,
@@ -455,13 +575,21 @@
       1098,
       2010
     ],
+    "framing_box": [
+      0,
+      0,
+      1152,
+      2048
+    ],
+    "centered": true,
     "blank_trimmed": false,
     "box": null,
     "output": "成品/0e93963c2b2675b1d1c1cdecbf490e1ab13bba8cfabf37dcf344ff048e3af32e_758x1024.png",
     "gray_levels": 16,
     "blank_frac": 0.6618,
-    "blank_frac_before": 0.6479,
-    "sha256": "329049130150562998def3ea2f2fe38fca76ca079058d8f7c70345d8f07fe997"
+    "blank_frac_before": 0.6618,
+    "char_center_x": 378.98,
+    "sha256": "7626b9bd886be6fc02c83c6e4449126f99b8590c6d41c3ef8d45b2c8e17f6f05"
   },
   {
     "source": "原图/1cfbd3864a2de304ade342996b3c9c8663a7189cf60b2d1a646d1791156e789a.png",
@@ -473,10 +601,10 @@
     "mode": "contain",
     "framing": "fit",
     "content_box": [
-      0,
-      0,
-      2304,
-      4096
+      10,
+      59,
+      2303,
+      4063
     ],
     "content_box_raw": [
       10,
@@ -484,13 +612,21 @@
       2303,
       4063
     ],
+    "framing_box": [
+      0,
+      0,
+      2304,
+      4096
+    ],
+    "centered": true,
     "blank_trimmed": false,
     "box": null,
     "output": "成品/1cfbd3864a2de304ade342996b3c9c8663a7189cf60b2d1a646d1791156e789a_758x1024.png",
     "gray_levels": 16,
     "blank_frac": 0.5277,
-    "blank_frac_before": 0.5341,
-    "sha256": "47197cd783977cca608625a706a0936693e76783f21072196eb4fca50c5cbc16"
+    "blank_frac_before": 0.5277,
+    "char_center_x": 379.133,
+    "sha256": "6189cef768a99a81c553a4c47950eec7c5760de1662dc577eeb01d2ea3131d2f"
   },
   {
     "source": "原图/1dc86d13132d97ecf3c368b250676a014eb7496703704138b3ecbfe30d0acf25.jpg",
@@ -502,10 +638,10 @@
     "mode": "contain",
     "framing": "fit",
     "content_box": [
-      0,
-      0,
-      3072,
-      5504
+      25,
+      220,
+      3054,
+      5314
     ],
     "content_box_raw": [
       25,
@@ -513,13 +649,21 @@
       3054,
       5314
     ],
+    "framing_box": [
+      0,
+      0,
+      3072,
+      5504
+    ],
+    "centered": true,
     "blank_trimmed": false,
     "box": null,
     "output": "成品/1dc86d13132d97ecf3c368b250676a014eb7496703704138b3ecbfe30d0acf25_758x1024.png",
     "gray_levels": 16,
     "blank_frac": 0.6652,
-    "blank_frac_before": 0.6847,
-    "sha256": "76b1be100a73667971e39f59fcc811b66f2d11b8d251717e9c841e646091835d"
+    "blank_frac_before": 0.6652,
+    "char_center_x": 378.672,
+    "sha256": "587bb84b3041d17e658946bfa62ebe23f9eaa5efec6c612d8737a1afa5b0b2be"
   },
   {
     "source": "原图/1e4cbdc04f928113e765fcf69fae42ff6303cda83f1edeb2732fc6d8296a528b.png",
@@ -531,10 +675,10 @@
     "mode": "contain",
     "framing": "fit",
     "content_box": [
-      36,
-      0,
-      1128,
-      2048
+      103,
+      31,
+      1061,
+      2032
     ],
     "content_box_raw": [
       103,
@@ -542,13 +686,21 @@
       1061,
       2032
     ],
+    "framing_box": [
+      36,
+      0,
+      1128,
+      2048
+    ],
+    "centered": true,
     "blank_trimmed": true,
     "box": null,
     "output": "成品/1e4cbdc04f928113e765fcf69fae42ff6303cda83f1edeb2732fc6d8296a528b_758x1024.png",
     "gray_levels": 16,
     "blank_frac": 0.6206,
-    "blank_frac_before": 0.6259,
-    "sha256": "2da0acafe47765bdd334c5569135b3cc070c105a65f6cce75b6d49b109de612d"
+    "blank_frac_before": 0.6206,
+    "char_center_x": 379.0,
+    "sha256": "9d1c72ac3fdea1a2f9d0fce847d3ba4cff37e5b8d55719fd9a69af8e13b62dcc"
   },
   {
     "source": "原图/2decd148d7db64957f6ace68bada0be346acf5430554ed43554e39c4c1a28352.png",
@@ -560,10 +712,10 @@
     "mode": "contain",
     "framing": "fit",
     "content_box": [
-      110,
-      0,
-      1058,
-      2048
+      168,
+      37,
+      1000,
+      2031
     ],
     "content_box_raw": [
       168,
@@ -571,13 +723,21 @@
       1000,
       2031
     ],
+    "framing_box": [
+      110,
+      0,
+      1058,
+      2048
+    ],
+    "centered": true,
     "blank_trimmed": true,
     "box": null,
     "output": "成品/2decd148d7db64957f6ace68bada0be346acf5430554ed43554e39c4c1a28352_758x1024.png",
     "gray_levels": 16,
     "blank_frac": 0.7024,
-    "blank_frac_before": 0.7072,
-    "sha256": "6613707fb1eb034d56e365301be3bae3a4f1ea56780b691b469291ca2dcc2f5c"
+    "blank_frac_before": 0.7024,
+    "char_center_x": 379.0,
+    "sha256": "0f8dd5810191f9cc7970dbd1295bc53d88f78aa3e08de9162981cd73562ff1e2"
   },
   {
     "source": "原图/393969c8fd950f70a79a6ccffeb386a7bf84053be78da0a53cb0230794ee8d33.png",
@@ -589,10 +749,10 @@
     "mode": "contain",
     "framing": "fit",
     "content_box": [
-      0,
-      0,
-      1152,
-      2048
+      5,
+      32,
+      1143,
+      1990
     ],
     "content_box_raw": [
       5,
@@ -600,13 +760,21 @@
       1143,
       1990
     ],
+    "framing_box": [
+      0,
+      0,
+      1152,
+      2048
+    ],
+    "centered": true,
     "blank_trimmed": false,
     "box": null,
     "output": "成品/393969c8fd950f70a79a6ccffeb386a7bf84053be78da0a53cb0230794ee8d33_758x1024.png",
     "gray_levels": 16,
     "blank_frac": 0.6042,
-    "blank_frac_before": 0.6151,
-    "sha256": "a7d124a4e18df475cea7df57578b712ec57f2fbb29ab2f912c3b21fa32c1f493"
+    "blank_frac_before": 0.6042,
+    "char_center_x": 378.986,
+    "sha256": "14ccf1be07e229f186375ba960dad3899607fbe1e9867e62fccbd0bdf9396a61"
   },
   {
     "source": "原图/418b038864fbe93778d8377444ec969997cd8745fe57f1f22af49621171f5e8f.png",
@@ -618,10 +786,10 @@
     "mode": "contain",
     "framing": "fit",
     "content_box": [
-      38,
-      0,
-      1127,
-      2048
+      105,
+      76,
+      1060,
+      1967
     ],
     "content_box_raw": [
       105,
@@ -629,13 +797,21 @@
       1060,
       1967
     ],
+    "framing_box": [
+      38,
+      0,
+      1127,
+      2048
+    ],
+    "centered": true,
     "blank_trimmed": true,
     "box": null,
     "output": "成品/418b038864fbe93778d8377444ec969997cd8745fe57f1f22af49621171f5e8f_758x1024.png",
     "gray_levels": 16,
     "blank_frac": 0.6566,
-    "blank_frac_before": 0.6783,
-    "sha256": "a67e18950a496c68e91f520468d73ce915153e8908e301e156cb010ec130c583"
+    "blank_frac_before": 0.6566,
+    "char_center_x": 379.5,
+    "sha256": "cac9bb79facedb6ce4123f32310372d9b8b5a48326928bddc7be2117dde731d0"
   },
   {
     "source": "原图/42f42f5c88f5a4467f67f5e974068d06135f51dae7414c6ad0a3f0a950427391.png",
@@ -647,10 +823,10 @@
     "mode": "contain",
     "framing": "fit",
     "content_box": [
+      48,
       0,
-      0,
-      1152,
-      2048
+      1131,
+      2032
     ],
     "content_box_raw": [
       48,
@@ -658,13 +834,21 @@
       1131,
       2032
     ],
+    "framing_box": [
+      0,
+      0,
+      1152,
+      2048
+    ],
+    "centered": true,
     "blank_trimmed": false,
     "box": null,
     "output": "成品/42f42f5c88f5a4467f67f5e974068d06135f51dae7414c6ad0a3f0a950427391_758x1024.png",
     "gray_levels": 16,
     "blank_frac": 0.6811,
     "blank_frac_before": 0.6811,
-    "sha256": "ee4af08a54449f1be85ab589a32b0cee6107a0ad46e539570fa747d1958442b8"
+    "char_center_x": 378.75,
+    "sha256": "bb9c9564430ddc30ab0998eda6d04f0dc3282508dfb1b6d091e94b5af9f6e74d"
   },
   {
     "source": "原图/4978e1ee21470cd1a1dd550a83b259e7e55f78204a3166f3f4f47fc9e34c364a.png",
@@ -676,10 +860,10 @@
     "mode": "contain",
     "framing": "fit",
     "content_box": [
-      52,
-      0,
-      1152,
-      2048
+      120,
+      22,
+      1092,
+      2036
     ],
     "content_box_raw": [
       120,
@@ -687,13 +871,21 @@
       1092,
       2036
     ],
+    "framing_box": [
+      52,
+      0,
+      1152,
+      2048
+    ],
+    "centered": true,
     "blank_trimmed": true,
     "box": null,
     "output": "成品/4978e1ee21470cd1a1dd550a83b259e7e55f78204a3166f3f4f47fc9e34c364a_758x1024.png",
     "gray_levels": 16,
     "blank_frac": 0.711,
-    "blank_frac_before": 0.7138,
-    "sha256": "6125ee8bae40dcfdf3c6750a5ec2105b73e2d37b0f2b3ae64f68b210983d8bb9"
+    "blank_frac_before": 0.711,
+    "char_center_x": 378.511,
+    "sha256": "8d0eb7a0dcbf20de81e3f16e6e9e91e8cf5aeaec1e6555e6c053470693ce10a9"
   },
   {
     "source": "原图/5873ba3318c82112a7088c10736848d52cd2c7f38381d6d6cb38d9065ef9ab3d.png",
@@ -705,10 +897,10 @@
     "mode": "contain",
     "framing": "fit",
     "content_box": [
-      0,
-      0,
-      1152,
-      2048
+      14,
+      11,
+      1144,
+      2027
     ],
     "content_box_raw": [
       14,
@@ -716,13 +908,21 @@
       1144,
       2027
     ],
+    "framing_box": [
+      0,
+      0,
+      1152,
+      2048
+    ],
+    "centered": true,
     "blank_trimmed": false,
     "box": null,
     "output": "成品/5873ba3318c82112a7088c10736848d52cd2c7f38381d6d6cb38d9065ef9ab3d_758x1024.png",
     "gray_levels": 16,
     "blank_frac": 0.7022,
-    "blank_frac_before": 0.705,
-    "sha256": "e3bb78aef267f7bd2e9fdff82fc4eafcfd11d153aff7a8e7a1c27d31cce9cc30"
+    "blank_frac_before": 0.7022,
+    "char_center_x": 379.007,
+    "sha256": "ef10d664dcd23fe26e25abf2b3ad48d0b8d769cab84d53dc118276c050516d50"
   },
   {
     "source": "原图/5fdb6c4e0093313a7254bf36eff592f1f61905bbecdc4a910d73b9b84e13d814.png",
@@ -734,10 +934,10 @@
     "mode": "contain",
     "framing": "fit",
     "content_box": [
-      0,
-      0,
-      1152,
-      2048
+      17,
+      6,
+      1137,
+      2027
     ],
     "content_box_raw": [
       17,
@@ -745,13 +945,21 @@
       1137,
       2027
     ],
+    "framing_box": [
+      0,
+      0,
+      1152,
+      2048
+    ],
+    "centered": true,
     "blank_trimmed": false,
     "box": null,
     "output": "成品/5fdb6c4e0093313a7254bf36eff592f1f61905bbecdc4a910d73b9b84e13d814_758x1024.png",
     "gray_levels": 16,
     "blank_frac": 0.6176,
-    "blank_frac_before": 0.6201,
-    "sha256": "481bada8b18929851b9c4a07b00b1cb85ade2686a5eeedadfba560adb7c877bc"
+    "blank_frac_before": 0.6176,
+    "char_center_x": 378.501,
+    "sha256": "731aa3045156b5c58c79cfa6f8be3ae35a3b93b0ce73f963df442400dd2b8dfe"
   },
   {
     "source": "原图/61b6f356b855cd160a0b588800859f511480b7e496902be2adf1bd312e025942.png",
@@ -763,10 +971,10 @@
     "mode": "contain",
     "framing": "fit",
     "content_box": [
-      0,
-      0,
-      1152,
-      2048
+      17,
+      61,
+      1146,
+      2015
     ],
     "content_box_raw": [
       17,
@@ -774,13 +982,21 @@
       1146,
       2015
     ],
+    "framing_box": [
+      0,
+      0,
+      1152,
+      2048
+    ],
+    "centered": true,
     "blank_trimmed": false,
     "box": null,
     "output": "成品/61b6f356b855cd160a0b588800859f511480b7e496902be2adf1bd312e025942_758x1024.png",
     "gray_levels": 16,
     "blank_frac": 0.5426,
-    "blank_frac_before": 0.5551,
-    "sha256": "3887b15a88392adc61282271b39919fac5ff150c16e11c3f3ce6c4b51bedb2e4"
+    "blank_frac_before": 0.5426,
+    "char_center_x": 378.79,
+    "sha256": "71a83560fc3489297f96848749d0868cd3572320911c62ffcc43308c9765bdf1"
   },
   {
     "source": "原图/65644fd65984bfdec75bf20e39e1f1b3c836395361f5ad7a13ef423228cb837b.png",
@@ -792,10 +1008,10 @@
     "mode": "contain",
     "framing": "fit",
     "content_box": [
+      19,
       0,
-      0,
-      1152,
-      2048
+      1145,
+      2019
     ],
     "content_box_raw": [
       19,
@@ -803,13 +1019,21 @@
       1145,
       2019
     ],
+    "framing_box": [
+      0,
+      0,
+      1152,
+      2048
+    ],
+    "centered": true,
     "blank_trimmed": false,
     "box": null,
     "output": "成品/65644fd65984bfdec75bf20e39e1f1b3c836395361f5ad7a13ef423228cb837b_758x1024.png",
     "gray_levels": 16,
     "blank_frac": 0.6789,
     "blank_frac_before": 0.6789,
-    "sha256": "6516d17e639843a7bd8ae51a31b467e4dc6ea179df6340840cab0dcef64629f8"
+    "char_center_x": 379.0,
+    "sha256": "ab2f57a2f6d11511f55a88e82f0b1b1983f3ae382e983d259ba1078698f70697"
   },
   {
     "source": "原图/88efea1ecfccf707bc6c57410eeee27a187f85e62e22dcd181421e473bd2c287.png",
@@ -821,10 +1045,10 @@
     "mode": "contain",
     "framing": "fit",
     "content_box": [
-      0,
-      0,
-      1152,
-      2048
+      21,
+      12,
+      1149,
+      2011
     ],
     "content_box_raw": [
       21,
@@ -832,13 +1056,21 @@
       1149,
       2011
     ],
+    "framing_box": [
+      0,
+      0,
+      1152,
+      2048
+    ],
+    "centered": true,
     "blank_trimmed": false,
     "box": null,
     "output": "成品/88efea1ecfccf707bc6c57410eeee27a187f85e62e22dcd181421e473bd2c287_758x1024.png",
     "gray_levels": 16,
     "blank_frac": 0.6772,
-    "blank_frac_before": 0.6803,
-    "sha256": "fab72987e4300565f9a0310873c866afe91f16c8b9ca01d3d532d37061bff701"
+    "blank_frac_before": 0.6772,
+    "char_center_x": 379.024,
+    "sha256": "29be69f02b8740ff77e23f6527f518d6bd7a3ed0ec586b8261a7cc79a5452344"
   },
   {
     "source": "原图/Gemini-Carbon.png",
@@ -850,10 +1082,10 @@
     "mode": "contain",
     "framing": "fit",
     "content_box": [
-      0,
-      0,
-      1152,
-      2048
+      13,
+      81,
+      1151,
+      1987
     ],
     "content_box_raw": [
       13,
@@ -861,13 +1093,21 @@
       1151,
       1987
     ],
+    "framing_box": [
+      0,
+      0,
+      1152,
+      2048
+    ],
+    "centered": true,
     "blank_trimmed": false,
     "box": null,
     "output": "成品/Gemini-Carbon_758x1024.png",
     "gray_levels": 16,
     "blank_frac": 0.5369,
-    "blank_frac_before": 0.5608,
-    "sha256": "6534738f5360fbc5303b20697e50ee4de49b8e7d60fd8efd37070f8daacce323"
+    "blank_frac_before": 0.5369,
+    "char_center_x": 379.083,
+    "sha256": "c856557877d4f8a0c871fa0575ae753077b509d1a0ec2a9ab3099aae67b77dc4"
   },
   {
     "source": "原图/GeminiAr.png",
@@ -879,10 +1119,10 @@
     "mode": "contain",
     "framing": "fit",
     "content_box": [
-      0,
-      0,
-      1152,
-      2048
+      11,
+      36,
+      1145,
+      2015
     ],
     "content_box_raw": [
       11,
@@ -890,13 +1130,21 @@
       1145,
       2015
     ],
+    "framing_box": [
+      0,
+      0,
+      1152,
+      2048
+    ],
+    "centered": true,
     "blank_trimmed": false,
     "box": null,
     "output": "成品/Post_GeminiAr_758x1024.png",
     "gray_levels": 16,
     "blank_frac": 0.6398,
-    "blank_frac_before": 0.6508,
-    "sha256": "2db21719649de80660cb28446b819222f7720b84a093cc32153110ccb8f7b9bc"
+    "blank_frac_before": 0.6398,
+    "char_center_x": 379.015,
+    "sha256": "ae78dc33e1239d263acdcb01edcb6cdcb663decda1ac1704630a1cc88ffdac4c"
   },
   {
     "source": "原图/aef27eed8ea5f4e8284bd65bf5a4db3f4a78565c344683023e014dfd30794c1a.png",
@@ -908,10 +1156,10 @@
     "mode": "contain",
     "framing": "fit",
     "content_box": [
-      0,
-      0,
-      1152,
-      2048
+      21,
+      16,
+      1128,
+      2023
     ],
     "content_box_raw": [
       21,
@@ -919,13 +1167,21 @@
       1128,
       2023
     ],
+    "framing_box": [
+      0,
+      0,
+      1152,
+      2048
+    ],
+    "centered": true,
     "blank_trimmed": false,
     "box": null,
     "output": "成品/aef27eed8ea5f4e8284bd65bf5a4db3f4a78565c344683023e014dfd30794c1a_758x1024.png",
     "gray_levels": 16,
     "blank_frac": 0.7355,
-    "blank_frac_before": 0.7173,
-    "sha256": "db14f029884292e07e58da975c11bbb949bf3626b46f2d5fe0d788620aaebd52"
+    "blank_frac_before": 0.7355,
+    "char_center_x": 379.245,
+    "sha256": "33eb5050917b2d9a30a7a275ccae15495d89d693d4a03258537f9daa7e859a84"
   },
   {
     "source": "原图/c1fa36164536397b9ed6691da4780ccf485e366622adcc956d0342e8023978f0.png",
@@ -937,10 +1193,10 @@
     "mode": "contain",
     "framing": "fit",
     "content_box": [
-      0,
-      0,
-      1152,
-      2048
+      26,
+      24,
+      1143,
+      2038
     ],
     "content_box_raw": [
       26,
@@ -948,13 +1204,21 @@
       1143,
       2038
     ],
+    "framing_box": [
+      0,
+      0,
+      1152,
+      2048
+    ],
+    "centered": true,
     "blank_trimmed": false,
     "box": null,
     "output": "成品/c1fa36164536397b9ed6691da4780ccf485e366622adcc956d0342e8023978f0_758x1024.png",
     "gray_levels": 16,
     "blank_frac": 0.5361,
-    "blank_frac_before": 0.5631,
-    "sha256": "4d2e3164d873d74f45d1cee4fb27b3ca7017eab80359090abb7252516cbb00d7"
+    "blank_frac_before": 0.5361,
+    "char_center_x": 378.769,
+    "sha256": "2043e5f8eee573dd7dc007dbadb4be9947d70a47931030390733c5d42b26f232"
   },
   {
     "source": "原图/dc6d6f0b4ec0061998cd804f6866322d164e2b744841115c36310f368ed0be6d.png",
@@ -966,10 +1230,10 @@
     "mode": "contain",
     "framing": "fit",
     "content_box": [
-      0,
-      0,
-      1152,
-      2048
+      17,
+      5,
+      1133,
+      2042
     ],
     "content_box_raw": [
       17,
@@ -977,13 +1241,21 @@
       1133,
       2042
     ],
+    "framing_box": [
+      0,
+      0,
+      1152,
+      2048
+    ],
+    "centered": true,
     "blank_trimmed": false,
     "box": null,
     "output": "成品/dc6d6f0b4ec0061998cd804f6866322d164e2b744841115c36310f368ed0be6d_758x1024.png",
     "gray_levels": 16,
     "blank_frac": 0.6818,
-    "blank_frac_before": 0.679,
-    "sha256": "863b25fa9f6a02f5870f29dadb6c5f3c26b6aa5b10f524bfc282e0a06c16232a"
+    "blank_frac_before": 0.6818,
+    "char_center_x": 378.999,
+    "sha256": "c696749f350b8ab60c616625d64b0260f8b68c4b8fc7a16e691e49eb94051d88"
   },
   {
     "source": "原图/2f5a6ac398721cbddebd47faeb189bf69c1f988fbbd3a39342ab76b41200dd05.png",
@@ -995,10 +1267,10 @@
     "mode": "contain",
     "framing": "fit",
     "content_box": [
-      0,
-      0,
-      1440,
-      2560
+      5,
+      29,
+      1437,
+      2433
     ],
     "content_box_raw": [
       5,
@@ -1006,13 +1278,21 @@
       1437,
       2433
     ],
+    "framing_box": [
+      0,
+      0,
+      1440,
+      2560
+    ],
+    "centered": true,
     "blank_trimmed": false,
     "box": null,
     "output": "成品/2f5a6ac398721cbddebd47faeb189bf69c1f988fbbd3a39342ab76b41200dd05_758x1024.png",
     "gray_levels": 16,
     "blank_frac": 0.644,
-    "blank_frac_before": 0.6512,
-    "sha256": "80fee3ffecabf2c4422f38b200e32a45fd28949dc729adbe85f1663872bfdf48"
+    "blank_frac_before": 0.644,
+    "char_center_x": 379.404,
+    "sha256": "6929b63cbb794b81f5f027200d3914b4038ff5a1978fa7559e23fa91572f2ab6"
   },
   {
     "source": "原图/318d5b9b6fd184cc36434eb15422fc8de755b191264cbcd0640fff4eb1cccafd.png",
@@ -1024,10 +1304,10 @@
     "mode": "crop",
     "framing": "cover",
     "content_box": [
-      0,
-      0,
-      1672,
-      941
+      96,
+      10,
+      1576,
+      930
     ],
     "content_box_raw": [
       96,
@@ -1035,12 +1315,20 @@
       1576,
       930
     ],
+    "framing_box": [
+      0,
+      0,
+      1672,
+      941
+    ],
+    "centered": true,
     "blank_trimmed": false,
     "box": null,
     "output": "成品/318d5b9b6fd184cc36434eb15422fc8de755b191264cbcd0640fff4eb1cccafd_758x1024.png",
     "gray_levels": 16,
     "blank_frac": 0.6992,
-    "blank_frac_before": 0.6991,
+    "blank_frac_before": 0.6992,
+    "char_center_x": 379.5,
     "sha256": "f03e8f4c169fd4f4fe8a445f5b2d0d39459d3075e13a6305cf6f63e6114748a2"
   },
   {
@@ -1053,10 +1341,10 @@
     "mode": "contain",
     "framing": "fit",
     "content_box": [
-      0,
-      0,
-      941,
-      1672
+      30,
+      15,
+      921,
+      1667
     ],
     "content_box_raw": [
       30,
@@ -1064,13 +1352,21 @@
       921,
       1667
     ],
+    "framing_box": [
+      0,
+      0,
+      941,
+      1672
+    ],
+    "centered": true,
     "blank_trimmed": false,
     "box": null,
     "output": "成品/44154f9119d5ddec2ecd7a36f27e6cc45ce5f54696532f64bbfe98dfd8152899_758x1024.png",
     "gray_levels": 16,
     "blank_frac": 0.6455,
-    "blank_frac_before": 0.6478,
-    "sha256": "5499bf7eb0b807ee4f3e90ccd8ad8341a3f1de29affc525b00a21be95a56ff31"
+    "blank_frac_before": 0.6455,
+    "char_center_x": 379.07,
+    "sha256": "113e1b8672d9ffe7c95d965929ad4f5f220ffa1336e01b11abd54618b1ca0471"
   },
   {
     "source": "原图/54a68b96a1bf37cf52815f0ee37109d1d1f1f349e5f6271c093c6b7ccf73ffe3.png",
@@ -1082,10 +1378,10 @@
     "mode": "contain",
     "framing": "fit",
     "content_box": [
-      0,
-      0,
-      1024,
-      1536
+      12,
+      11,
+      1017,
+      1516
     ],
     "content_box_raw": [
       12,
@@ -1093,13 +1389,21 @@
       1017,
       1516
     ],
+    "framing_box": [
+      0,
+      0,
+      1024,
+      1536
+    ],
+    "centered": true,
     "blank_trimmed": false,
     "box": null,
     "output": "成品/54a68b96a1bf37cf52815f0ee37109d1d1f1f349e5f6271c093c6b7ccf73ffe3_758x1024.png",
     "gray_levels": 16,
     "blank_frac": 0.5991,
-    "blank_frac_before": 0.6011,
-    "sha256": "807509b3613af5c213e03b67bd028f413ee4bd5ecee0c25479d7663ff3c206f7"
+    "blank_frac_before": 0.5991,
+    "char_center_x": 379.177,
+    "sha256": "e5d5dd1631445074fb9369a9970b837c00b7b99a4385480e6ea7d4513f5f8eda"
   },
   {
     "source": "原图/952e6ea699a4bb4b5909a8f328fd766d1441a3a101d72d2b4fb1053b4cd3e737.png",
@@ -1111,10 +1415,10 @@
     "mode": "contain",
     "framing": "fit",
     "content_box": [
-      0,
-      0,
-      1152,
-      2048
+      21,
+      27,
+      1127,
+      2007
     ],
     "content_box_raw": [
       21,
@@ -1122,13 +1426,21 @@
       1127,
       2007
     ],
+    "framing_box": [
+      0,
+      0,
+      1152,
+      2048
+    ],
+    "centered": true,
     "blank_trimmed": false,
     "box": null,
     "output": "成品/952e6ea699a4bb4b5909a8f328fd766d1441a3a101d72d2b4fb1053b4cd3e737_758x1024.png",
     "gray_levels": 16,
     "blank_frac": 0.689,
-    "blank_frac_before": 0.696,
-    "sha256": "0a266a5f6c9c87eef697de00afc01233d3ac26abb3097fa1a342763c7a587305"
+    "blank_frac_before": 0.689,
+    "char_center_x": 379.488,
+    "sha256": "d455bf52463273edfd6640123dbb5b8969869d8d16b5def261f72fdf931c35cc"
   },
   {
     "source": "原图/a4e7a49e6da150424b6c90c43f38cba2da882c299d7d00f14b44d291d3db11b0.jpg",
@@ -1140,10 +1452,10 @@
     "mode": "contain",
     "framing": "fit",
     "content_box": [
-      0,
-      0,
-      1080,
-      1935
+      8,
+      78,
+      1074,
+      1868
     ],
     "content_box_raw": [
       8,
@@ -1151,12 +1463,20 @@
       1074,
       1868
     ],
+    "framing_box": [
+      0,
+      0,
+      1080,
+      1935
+    ],
+    "centered": true,
     "blank_trimmed": false,
     "box": null,
     "output": "成品/a4e7a49e6da150424b6c90c43f38cba2da882c299d7d00f14b44d291d3db11b0_758x1024.png",
     "gray_levels": 16,
     "blank_frac": 0.6677,
-    "blank_frac_before": 0.6679,
-    "sha256": "fcc5fa6d2ca885916283809ea8dbd5475db2572f4a9a21f6d99d574058534c07"
+    "blank_frac_before": 0.6677,
+    "char_center_x": 378.546,
+    "sha256": "0b1c85d978d64f4aa4816c2142ba373349e889cc204ca45d6308f9259bd1d700"
   }
 ]

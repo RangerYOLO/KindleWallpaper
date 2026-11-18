@@ -1,0 +1,22 @@
+# 操作系统垃圾文件
+Thumbs.db
+thumbs.db
+ehthumbs.db
+Desktop.ini
+desktop.ini
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+
+# 临时 / 备份文件
+*.tmp
+*.temp
+*.bak
+*.swp
+*~
+*.log
+
+# 编辑器 / IDE
+.vscode/
+.idea/

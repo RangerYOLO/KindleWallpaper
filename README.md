@@ -11,16 +11,31 @@
 
 ```
 KindleWallpaper\
-├── Post\                 # Kindle 源图：帖子配图（20 张）
-├── comment\              # Kindle 源图：评论配图（6 张）
-├── Pixiv\                # Kindle 源图：Pixiv 来源（14 张）
-├── cover\                # Kindle 源图：封面（当前为空）
-├── Claude-Gemini\        # 首批制作的 2 张 AI 娘壁纸（原图 + 成品）
-└── AI-gijinka\
-    └── KindlePaperWhite2\
-        └── greyscale\    # 40 张 758×1024 灰度壁纸 + manifest.json + PREVIEW.png + config.json
-            └── takagi\   # 高木同学（非 AI 娘）灰度壁纸预留目录，见其内 README
+├── 原图\                # 42 张壁纸原图：Post/comment/Pixiv 共 40 张 + Claude/Gemini 首批 2 张
+├── 成品\                # 42 张 758×1024 灰度成品：40 张灰度转换 + Claude/Gemini 首批 2 张
+│   └── takagi\          # 高木同学（非 AI 娘）灰度壁纸预留目录，见其内 README
+├── README.md            # 本说明
+├── manifest.json        # 40 张灰度壁纸的取景/配对参数（source / output）
+├── PREVIEW.png          # 40 张灰度壁纸的总览拼图
+└── config.json          # 逐图取景覆盖配置（当前为空 {}）
 ```
+
+原图与成品均按扁平方式存放，不再按来源分子目录。原来分散的 `Post\`、`comment\`、`Pixiv\` 已全部并入 `原图\`。
+
+## 原图 ↔ 成品 命名对应
+
+`成品\` 中每张壁纸由 `原图\` 中对应原图转换而来，一般规则为「原图主文件名 + `_758x1024`」，例如
+`原图\AWS.jpg` → `成品\AWS_758x1024.png`。`manifest.json` 的 `source` / `output` 字段逐条记录这种对应关系，
+两者都是**相对本仓库根目录**的路径：`source` 指向 `原图\<文件名>`，`output` 指向 `成品\<文件名>`。
+
+- 例外 1：`原图\GeminiAr.png`（原 Post 来源）与 `原图\GeminiAr.jpg`（原 Pixiv 来源）主文件名相同，
+  为区分二者，成品分别命名为 `成品\Post_GeminiAr_758x1024.png` 与 `成品\Pixiv_GeminiAr_758x1024.png`。
+  配对请以 `manifest.json` 为准。
+- 例外 2：Claude / Gemini 首批 2 张成品 `成品\Claude_成品_758x1024.png`、
+  `成品\Gemini_成品_758x1024.png` 分别对应 `原图\Claude_原图.png`、`原图\Gemini_原图.jpg`，
+  由同一脚本重制，未纳入 40 条 manifest。
+
+取景/灰度转换的具体原理与字段说明见 `成品\README.md`。
 
 ## 壁纸规格
 
@@ -45,6 +60,13 @@ KindleWallpaper\
 - 本仓库内的灰度壁纸是对上述原图的技术性转换（尺寸缩放与灰度抖动），不构成新的创作，版权仍归原作者所有。
 - 请勿用于任何商业用途，也不要将这些形象当作对应厂商的官方形象。
 
+**首批 Claude / Gemini 壁纸的授权**：`原图\Claude_原图.png`、`原图\Gemini_原图.jpg` 及对应成品同为 ZipZipPipe
+创作/二创的 AI 娘形象，授权同上（CC BY-NC-SA 4.0：需署名、非商业使用、衍生同协议共享）；此处仅作个人
+非商业备份，版权归原作者所有，请勿商用或当作官方形象。（原 `Claude-Gemini\README.md` 的素材来源与授权
+说明已并入本节，文件夹已撤销。）
+
+**素材来源补充**：`comment\` 已并入 `原图\`。其中部分评论配图并非 ZipZipPipe 本人作品，而是从 B 站 ZipZipPipe 动态的**评论区**下载的粉丝评论图片（含其评论中的配图）；仅作个人备份，版权归各自评论者所有。为便于追溯，原 `comment\` 来源的 6 张图为：`2f5a6ac398721cbddebd47faeb189bf69c1f988fbbd3a39342ab76b41200dd05.png`、`318d5b9b6fd184cc36434eb15422fc8de755b191264cbcd0640fff4eb1cccafd.png`、`44154f9119d5ddec2ecd7a36f27e6cc45ce5f54696532f64bbfe98dfd8152899.png`、`54a68b96a1bf37cf52815f0ee37109d1d1f1f349e5f6271c093c6b7ccf73ffe3.png`、`952e6ea699a4bb4b5909a8f328fd766d1441a3a101d72d2b4fb1053b4cd3e737.png`、`a4e7a49e6da150424b6c90c43f38cba2da882c299d7d00f14b44d291d3db11b0.jpg`。
+
 ## 状态
 
-这是一个**本地备份仓库**：已 `git init` 并完成首次提交，**未添加 remote、未推送、未登录 GitHub CLI**。
+这是一个**本地备份仓库**：已 `git init` 并完成提交，**未添加 remote、未推送、未登录 GitHub CLI**。

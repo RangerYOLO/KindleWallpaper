@@ -1,6 +1,6 @@
 [
   {
-    "source": "Pixiv/3642529461809365c6e0929f47a57b62852018bebbfdad603870f96f9814057b.png",
+    "source": "原图/3642529461809365c6e0929f47a57b62852018bebbfdad603870f96f9814057b.png",
     "src_size": [
       1152,
       2048
@@ -22,14 +22,14 @@
     ],
     "blank_trimmed": false,
     "box": null,
-    "output": "3642529461809365c6e0929f47a57b62852018bebbfdad603870f96f9814057b_758x1024.png",
+    "output": "成品/3642529461809365c6e0929f47a57b62852018bebbfdad603870f96f9814057b_758x1024.png",
     "gray_levels": 16,
     "blank_frac": 0.6168,
     "blank_frac_before": 0.6222,
     "sha256": "160f07b0bcad8a68bd47f5b6beea2fdc425325e02e7be501cdc7c768805ee121"
   },
   {
-    "source": "Pixiv/AWS.jpg",
+    "source": "原图/AWS.jpg",
     "src_size": [
       1152,
       2048
@@ -51,14 +51,14 @@
     ],
     "blank_trimmed": false,
     "box": null,
-    "output": "AWS_758x1024.png",
+    "output": "成品/AWS_758x1024.png",
     "gray_levels": 16,
     "blank_frac": 0.6139,
     "blank_frac_before": 0.6139,
     "sha256": "01ffa73bf140070e8639de43d7b7e1f9bd940ec3e4edba30e5c369dba667b34a"
   },
   {
-    "source": "Pixiv/Ascend.jpg",
+    "source": "原图/Ascend.jpg",
     "src_size": [
       1152,
       2048
@@ -80,14 +80,14 @@
     ],
     "blank_trimmed": true,
     "box": null,
-    "output": "Ascend_758x1024.png",
+    "output": "成品/Ascend_758x1024.png",
     "gray_levels": 16,
     "blank_frac": 0.6774,
     "blank_frac_before": 0.6789,
     "sha256": "73af31c27f2440ccfda93176bc21a0a452d950943404e660246c10fef3402981"
   },
   {
-    "source": "Pixiv/CloudFlare.jpg",
+    "source": "原图/CloudFlare.jpg",
     "src_size": [
       1152,
       2048
@@ -109,14 +109,14 @@
     ],
     "blank_trimmed": false,
     "box": null,
-    "output": "CloudFlare_758x1024.png",
+    "output": "成品/CloudFlare_758x1024.png",
     "gray_levels": 16,
     "blank_frac": 0.64,
     "blank_frac_before": 0.64,
     "sha256": "8a2a3d6ad9ff34b45c2486c4b8f5fdf4c1042092776278e70306da0797a4e1b5"
   },
   {
-    "source": "Pixiv/DeepSeekV4Flash.jpg",
+    "source": "原图/DeepSeekV4Flash.jpg",
     "src_size": [
       1536,
       2752
@@ -138,14 +138,14 @@
     ],
     "blank_trimmed": true,
     "box": null,
-    "output": "DeepSeekV4Flash_758x1024.png",
+    "output": "成品/DeepSeekV4Flash_758x1024.png",
     "gray_levels": 16,
     "blank_frac": 0.7202,
     "blank_frac_before": 0.7243,
     "sha256": "7e48efb52dc63b5a61370c84d2a4a1682f729def58cbba7337299d94690db173"
   },
   {
-    "source": "Pixiv/GeminiAr.jpg",
+    "source": "原图/GeminiAr.jpg",
     "src_size": [
       941,
       1672
@@ -167,14 +167,14 @@
     ],
     "blank_trimmed": false,
     "box": null,
-    "output": "Pixiv_GeminiAr_758x1024.png",
+    "output": "成品/Pixiv_GeminiAr_758x1024.png",
     "gray_levels": 16,
     "blank_frac": 0.7332,
     "blank_frac_before": 0.7374,
     "sha256": "4281e43e5b3385b0544b6319e3cb63b54d0e91d92d76dc7e16acb1026a7a3cb8"
   },
   {
-    "source": "Pixiv/GitHub.jpg",
+    "source": "原图/GitHub.jpg",
     "src_size": [
       1152,
       2048
@@ -196,14 +196,14 @@
     ],
     "blank_trimmed": true,
     "box": null,
-    "output": "GitHub_758x1024.png",
+    "output": "成品/GitHub_758x1024.png",
     "gray_levels": 16,
     "blank_frac": 0.6792,
     "blank_frac_before": 0.7229,
     "sha256": "0d802c64aa1631399173867fc57564a0ec2814cca5bf8eedbc3ea87e6a56ffca"
   },
   {
-    "source": "Pixiv/GitLab.jpg",
+    "source": "原图/GitLab.jpg",
     "src_size": [
       1152,
       2048
@@ -225,14 +225,14 @@
     ],
     "blank_trimmed": true,
     "box": null,
-    "output": "GitLab_758x1024.png",
+    "output": "成品/GitLab_758x1024.png",
     "gray_levels": 16,
     "blank_frac": 0.7035,
     "blank_frac_before": 0.7208,
     "sha256": "2c893ab28c6ede5addc25049f15bfe230e004622a6319cc9a7ec285965d96830"
   },
   {
-    "source": "Pixiv/LobeHub.jpg",
+    "source": "原图/LobeHub.jpg",
     "src_size": [
       1152,
       2048
@@ -254,14 +254,14 @@
     ],
     "blank_trimmed": true,
     "box": null,
-    "output": "LobeHub_758x1024.png",
+    "output": "成品/LobeHub_758x1024.png",
     "gray_levels": 16,
     "blank_frac": 0.7018,
     "blank_frac_before": 0.7071,
     "sha256": "131f521aa6db7e0555c2c7174bd3c83f3b50f4a8d2b591b30605f08898500e4a"
   },
   {
-    "source": "Pixiv/Midjourney.jpg",
+    "source": "原图/Midjourney.jpg",
     "src_size": [
       1152,
       2048
@@ -283,14 +283,14 @@
     ],
     "blank_trimmed": false,
     "box": null,
-    "output": "Midjourney_758x1024.png",
+    "output": "成品/Midjourney_758x1024.png",
     "gray_levels": 16,
     "blank_frac": 0.6176,
     "blank_frac_before": 0.6232,
     "sha256": "6caef84acf7407aba537206ff515cd949e1f5d3ba24ffaedaa0233ca6a318ed2"
   },
   {
-    "source": "Pixiv/Mistral.jpg",
+    "source": "原图/Mistral.jpg",
     "src_size": [
       3072,
       5504
@@ -312,14 +312,14 @@
     ],
     "blank_trimmed": false,
     "box": null,
-    "output": "Mistral_758x1024.png",
+    "output": "成品/Mistral_758x1024.png",
     "gray_levels": 16,
     "blank_frac": 0.6621,
     "blank_frac_before": 0.6658,
     "sha256": "6e897f4c948821a9eca4c5951d2e6fa57674de5f61ba41288ce4de034d658ef7"
   },
   {
-    "source": "Pixiv/NovelAI.jpg",
+    "source": "原图/NovelAI.jpg",
     "src_size": [
       1152,
       2048
@@ -341,14 +341,14 @@
     ],
     "blank_trimmed": false,
     "box": null,
-    "output": "NovelAI_758x1024.png",
+    "output": "成品/NovelAI_758x1024.png",
     "gray_levels": 16,
     "blank_frac": 0.6818,
     "blank_frac_before": 0.683,
     "sha256": "45f8f72bb68a6d8c0508308e30fc27c306887bb698c0549970c14e5abbe2f54e"
   },
   {
-    "source": "Pixiv/StepFun.jpg",
+    "source": "原图/StepFun.jpg",
     "src_size": [
       1152,
       2048
@@ -370,14 +370,14 @@
     ],
     "blank_trimmed": true,
     "box": null,
-    "output": "StepFun_758x1024.png",
+    "output": "成品/StepFun_758x1024.png",
     "gray_levels": 16,
     "blank_frac": 0.6903,
     "blank_frac_before": 0.7007,
     "sha256": "d87d7bc0695f3668f8f145c0faebab1106e92c868e37ff2e59064c807280b071"
   },
   {
-    "source": "Pixiv/Zcode.jpg",
+    "source": "原图/Zcode.jpg",
     "src_size": [
       1152,
       2048
@@ -399,14 +399,14 @@
     ],
     "blank_trimmed": true,
     "box": null,
-    "output": "Zcode_758x1024.png",
+    "output": "成品/Zcode_758x1024.png",
     "gray_levels": 16,
     "blank_frac": 0.6619,
     "blank_frac_before": 0.6804,
     "sha256": "c5f486d78a662bc7afaccae8d566290d286544f34ac0534c95cde6a3c5e19965"
   },
   {
-    "source": "Post/053cc35432d41cd7ef50591998d2f0c3c52804dde385a994e0c8f4fede212d06.png",
+    "source": "原图/053cc35432d41cd7ef50591998d2f0c3c52804dde385a994e0c8f4fede212d06.png",
     "src_size": [
       1152,
       2048
@@ -428,14 +428,14 @@
     ],
     "blank_trimmed": false,
     "box": null,
-    "output": "053cc35432d41cd7ef50591998d2f0c3c52804dde385a994e0c8f4fede212d06_758x1024.png",
+    "output": "成品/053cc35432d41cd7ef50591998d2f0c3c52804dde385a994e0c8f4fede212d06_758x1024.png",
     "gray_levels": 16,
     "blank_frac": 0.6456,
     "blank_frac_before": 0.6478,
     "sha256": "4e5e728329e0d609505062a9d78607c5a038f2bf165837bfb0b9caff61de92b3"
   },
   {
-    "source": "Post/0e93963c2b2675b1d1c1cdecbf490e1ab13bba8cfabf37dcf344ff048e3af32e.png",
+    "source": "原图/0e93963c2b2675b1d1c1cdecbf490e1ab13bba8cfabf37dcf344ff048e3af32e.png",
     "src_size": [
       1152,
       2048
@@ -457,14 +457,14 @@
     ],
     "blank_trimmed": false,
     "box": null,
-    "output": "0e93963c2b2675b1d1c1cdecbf490e1ab13bba8cfabf37dcf344ff048e3af32e_758x1024.png",
+    "output": "成品/0e93963c2b2675b1d1c1cdecbf490e1ab13bba8cfabf37dcf344ff048e3af32e_758x1024.png",
     "gray_levels": 16,
     "blank_frac": 0.6618,
     "blank_frac_before": 0.6479,
     "sha256": "329049130150562998def3ea2f2fe38fca76ca079058d8f7c70345d8f07fe997"
   },
   {
-    "source": "Post/1cfbd3864a2de304ade342996b3c9c8663a7189cf60b2d1a646d1791156e789a.png",
+    "source": "原图/1cfbd3864a2de304ade342996b3c9c8663a7189cf60b2d1a646d1791156e789a.png",
     "src_size": [
       2304,
       4096
@@ -486,14 +486,14 @@
     ],
     "blank_trimmed": false,
     "box": null,
-    "output": "1cfbd3864a2de304ade342996b3c9c8663a7189cf60b2d1a646d1791156e789a_758x1024.png",
+    "output": "成品/1cfbd3864a2de304ade342996b3c9c8663a7189cf60b2d1a646d1791156e789a_758x1024.png",
     "gray_levels": 16,
     "blank_frac": 0.5277,
     "blank_frac_before": 0.5341,
     "sha256": "47197cd783977cca608625a706a0936693e76783f21072196eb4fca50c5cbc16"
   },
   {
-    "source": "Post/1dc86d13132d97ecf3c368b250676a014eb7496703704138b3ecbfe30d0acf25.jpg",
+    "source": "原图/1dc86d13132d97ecf3c368b250676a014eb7496703704138b3ecbfe30d0acf25.jpg",
     "src_size": [
       3072,
       5504
@@ -515,14 +515,14 @@
     ],
     "blank_trimmed": false,
     "box": null,
-    "output": "1dc86d13132d97ecf3c368b250676a014eb7496703704138b3ecbfe30d0acf25_758x1024.png",
+    "output": "成品/1dc86d13132d97ecf3c368b250676a014eb7496703704138b3ecbfe30d0acf25_758x1024.png",
     "gray_levels": 16,
     "blank_frac": 0.6652,
     "blank_frac_before": 0.6847,
     "sha256": "76b1be100a73667971e39f59fcc811b66f2d11b8d251717e9c841e646091835d"
   },
   {
-    "source": "Post/1e4cbdc04f928113e765fcf69fae42ff6303cda83f1edeb2732fc6d8296a528b.png",
+    "source": "原图/1e4cbdc04f928113e765fcf69fae42ff6303cda83f1edeb2732fc6d8296a528b.png",
     "src_size": [
       1152,
       2048
@@ -544,14 +544,14 @@
     ],
     "blank_trimmed": true,
     "box": null,
-    "output": "1e4cbdc04f928113e765fcf69fae42ff6303cda83f1edeb2732fc6d8296a528b_758x1024.png",
+    "output": "成品/1e4cbdc04f928113e765fcf69fae42ff6303cda83f1edeb2732fc6d8296a528b_758x1024.png",
     "gray_levels": 16,
     "blank_frac": 0.6206,
     "blank_frac_before": 0.6259,
     "sha256": "2da0acafe47765bdd334c5569135b3cc070c105a65f6cce75b6d49b109de612d"
   },
   {
-    "source": "Post/2decd148d7db64957f6ace68bada0be346acf5430554ed43554e39c4c1a28352.png",
+    "source": "原图/2decd148d7db64957f6ace68bada0be346acf5430554ed43554e39c4c1a28352.png",
     "src_size": [
       1152,
       2048
@@ -573,14 +573,14 @@
     ],
     "blank_trimmed": true,
     "box": null,
-    "output": "2decd148d7db64957f6ace68bada0be346acf5430554ed43554e39c4c1a28352_758x1024.png",
+    "output": "成品/2decd148d7db64957f6ace68bada0be346acf5430554ed43554e39c4c1a28352_758x1024.png",
     "gray_levels": 16,
     "blank_frac": 0.7024,
     "blank_frac_before": 0.7072,
     "sha256": "6613707fb1eb034d56e365301be3bae3a4f1ea56780b691b469291ca2dcc2f5c"
   },
   {
-    "source": "Post/393969c8fd950f70a79a6ccffeb386a7bf84053be78da0a53cb0230794ee8d33.png",
+    "source": "原图/393969c8fd950f70a79a6ccffeb386a7bf84053be78da0a53cb0230794ee8d33.png",
     "src_size": [
       1152,
       2048
@@ -602,14 +602,14 @@
     ],
     "blank_trimmed": false,
     "box": null,
-    "output": "393969c8fd950f70a79a6ccffeb386a7bf84053be78da0a53cb0230794ee8d33_758x1024.png",
+    "output": "成品/393969c8fd950f70a79a6ccffeb386a7bf84053be78da0a53cb0230794ee8d33_758x1024.png",
     "gray_levels": 16,
     "blank_frac": 0.6042,
     "blank_frac_before": 0.6151,
     "sha256": "a7d124a4e18df475cea7df57578b712ec57f2fbb29ab2f912c3b21fa32c1f493"
   },
   {
-    "source": "Post/418b038864fbe93778d8377444ec969997cd8745fe57f1f22af49621171f5e8f.png",
+    "source": "原图/418b038864fbe93778d8377444ec969997cd8745fe57f1f22af49621171f5e8f.png",
     "src_size": [
       1152,
       2048
@@ -631,14 +631,14 @@
     ],
     "blank_trimmed": true,
     "box": null,
-    "output": "418b038864fbe93778d8377444ec969997cd8745fe57f1f22af49621171f5e8f_758x1024.png",
+    "output": "成品/418b038864fbe93778d8377444ec969997cd8745fe57f1f22af49621171f5e8f_758x1024.png",
     "gray_levels": 16,
     "blank_frac": 0.6566,
     "blank_frac_before": 0.6783,
     "sha256": "a67e18950a496c68e91f520468d73ce915153e8908e301e156cb010ec130c583"
   },
   {
-    "source": "Post/42f42f5c88f5a4467f67f5e974068d06135f51dae7414c6ad0a3f0a950427391.png",
+    "source": "原图/42f42f5c88f5a4467f67f5e974068d06135f51dae7414c6ad0a3f0a950427391.png",
     "src_size": [
       1152,
       2048
@@ -660,14 +660,14 @@
     ],
     "blank_trimmed": false,
     "box": null,
-    "output": "42f42f5c88f5a4467f67f5e974068d06135f51dae7414c6ad0a3f0a950427391_758x1024.png",
+    "output": "成品/42f42f5c88f5a4467f67f5e974068d06135f51dae7414c6ad0a3f0a950427391_758x1024.png",
     "gray_levels": 16,
     "blank_frac": 0.6811,
     "blank_frac_before": 0.6811,
     "sha256": "ee4af08a54449f1be85ab589a32b0cee6107a0ad46e539570fa747d1958442b8"
   },
   {
-    "source": "Post/4978e1ee21470cd1a1dd550a83b259e7e55f78204a3166f3f4f47fc9e34c364a.png",
+    "source": "原图/4978e1ee21470cd1a1dd550a83b259e7e55f78204a3166f3f4f47fc9e34c364a.png",
     "src_size": [
       1152,
       2048
@@ -689,14 +689,14 @@
     ],
     "blank_trimmed": true,
     "box": null,
-    "output": "4978e1ee21470cd1a1dd550a83b259e7e55f78204a3166f3f4f47fc9e34c364a_758x1024.png",
+    "output": "成品/4978e1ee21470cd1a1dd550a83b259e7e55f78204a3166f3f4f47fc9e34c364a_758x1024.png",
     "gray_levels": 16,
     "blank_frac": 0.711,
     "blank_frac_before": 0.7138,
     "sha256": "6125ee8bae40dcfdf3c6750a5ec2105b73e2d37b0f2b3ae64f68b210983d8bb9"
   },
   {
-    "source": "Post/5873ba3318c82112a7088c10736848d52cd2c7f38381d6d6cb38d9065ef9ab3d.png",
+    "source": "原图/5873ba3318c82112a7088c10736848d52cd2c7f38381d6d6cb38d9065ef9ab3d.png",
     "src_size": [
       1152,
       2048
@@ -718,14 +718,14 @@
     ],
     "blank_trimmed": false,
     "box": null,
-    "output": "5873ba3318c82112a7088c10736848d52cd2c7f38381d6d6cb38d9065ef9ab3d_758x1024.png",
+    "output": "成品/5873ba3318c82112a7088c10736848d52cd2c7f38381d6d6cb38d9065ef9ab3d_758x1024.png",
     "gray_levels": 16,
     "blank_frac": 0.7022,
     "blank_frac_before": 0.705,
     "sha256": "e3bb78aef267f7bd2e9fdff82fc4eafcfd11d153aff7a8e7a1c27d31cce9cc30"
   },
   {
-    "source": "Post/5fdb6c4e0093313a7254bf36eff592f1f61905bbecdc4a910d73b9b84e13d814.png",
+    "source": "原图/5fdb6c4e0093313a7254bf36eff592f1f61905bbecdc4a910d73b9b84e13d814.png",
     "src_size": [
       1152,
       2048
@@ -747,14 +747,14 @@
     ],
     "blank_trimmed": false,
     "box": null,
-    "output": "5fdb6c4e0093313a7254bf36eff592f1f61905bbecdc4a910d73b9b84e13d814_758x1024.png",
+    "output": "成品/5fdb6c4e0093313a7254bf36eff592f1f61905bbecdc4a910d73b9b84e13d814_758x1024.png",
     "gray_levels": 16,
     "blank_frac": 0.6176,
     "blank_frac_before": 0.6201,
     "sha256": "481bada8b18929851b9c4a07b00b1cb85ade2686a5eeedadfba560adb7c877bc"
   },
   {
-    "source": "Post/61b6f356b855cd160a0b588800859f511480b7e496902be2adf1bd312e025942.png",
+    "source": "原图/61b6f356b855cd160a0b588800859f511480b7e496902be2adf1bd312e025942.png",
     "src_size": [
       1152,
       2048
@@ -776,14 +776,14 @@
     ],
     "blank_trimmed": false,
     "box": null,
-    "output": "61b6f356b855cd160a0b588800859f511480b7e496902be2adf1bd312e025942_758x1024.png",
+    "output": "成品/61b6f356b855cd160a0b588800859f511480b7e496902be2adf1bd312e025942_758x1024.png",
     "gray_levels": 16,
     "blank_frac": 0.5426,
     "blank_frac_before": 0.5551,
     "sha256": "3887b15a88392adc61282271b39919fac5ff150c16e11c3f3ce6c4b51bedb2e4"
   },
   {
-    "source": "Post/65644fd65984bfdec75bf20e39e1f1b3c836395361f5ad7a13ef423228cb837b.png",
+    "source": "原图/65644fd65984bfdec75bf20e39e1f1b3c836395361f5ad7a13ef423228cb837b.png",
     "src_size": [
       1152,
       2048
@@ -805,14 +805,14 @@
     ],
     "blank_trimmed": false,
     "box": null,
-    "output": "65644fd65984bfdec75bf20e39e1f1b3c836395361f5ad7a13ef423228cb837b_758x1024.png",
+    "output": "成品/65644fd65984bfdec75bf20e39e1f1b3c836395361f5ad7a13ef423228cb837b_758x1024.png",
     "gray_levels": 16,
     "blank_frac": 0.6789,
     "blank_frac_before": 0.6789,
     "sha256": "6516d17e639843a7bd8ae51a31b467e4dc6ea179df6340840cab0dcef64629f8"
   },
   {
-    "source": "Post/88efea1ecfccf707bc6c57410eeee27a187f85e62e22dcd181421e473bd2c287.png",
+    "source": "原图/88efea1ecfccf707bc6c57410eeee27a187f85e62e22dcd181421e473bd2c287.png",
     "src_size": [
       1152,
       2048
@@ -834,14 +834,14 @@
     ],
     "blank_trimmed": false,
     "box": null,
-    "output": "88efea1ecfccf707bc6c57410eeee27a187f85e62e22dcd181421e473bd2c287_758x1024.png",
+    "output": "成品/88efea1ecfccf707bc6c57410eeee27a187f85e62e22dcd181421e473bd2c287_758x1024.png",
     "gray_levels": 16,
     "blank_frac": 0.6772,
     "blank_frac_before": 0.6803,
     "sha256": "fab72987e4300565f9a0310873c866afe91f16c8b9ca01d3d532d37061bff701"
   },
   {
-    "source": "Post/Gemini-Carbon.png",
+    "source": "原图/Gemini-Carbon.png",
     "src_size": [
       1152,
       2048
@@ -863,14 +863,14 @@
     ],
     "blank_trimmed": false,
     "box": null,
-    "output": "Gemini-Carbon_758x1024.png",
+    "output": "成品/Gemini-Carbon_758x1024.png",
     "gray_levels": 16,
     "blank_frac": 0.5369,
     "blank_frac_before": 0.5608,
     "sha256": "6534738f5360fbc5303b20697e50ee4de49b8e7d60fd8efd37070f8daacce323"
   },
   {
-    "source": "Post/GeminiAr.png",
+    "source": "原图/GeminiAr.png",
     "src_size": [
       1152,
       2048
@@ -892,14 +892,14 @@
     ],
     "blank_trimmed": false,
     "box": null,
-    "output": "Post_GeminiAr_758x1024.png",
+    "output": "成品/Post_GeminiAr_758x1024.png",
     "gray_levels": 16,
     "blank_frac": 0.6398,
     "blank_frac_before": 0.6508,
     "sha256": "2db21719649de80660cb28446b819222f7720b84a093cc32153110ccb8f7b9bc"
   },
   {
-    "source": "Post/aef27eed8ea5f4e8284bd65bf5a4db3f4a78565c344683023e014dfd30794c1a.png",
+    "source": "原图/aef27eed8ea5f4e8284bd65bf5a4db3f4a78565c344683023e014dfd30794c1a.png",
     "src_size": [
       1152,
       2048
@@ -921,14 +921,14 @@
     ],
     "blank_trimmed": false,
     "box": null,
-    "output": "aef27eed8ea5f4e8284bd65bf5a4db3f4a78565c344683023e014dfd30794c1a_758x1024.png",
+    "output": "成品/aef27eed8ea5f4e8284bd65bf5a4db3f4a78565c344683023e014dfd30794c1a_758x1024.png",
     "gray_levels": 16,
     "blank_frac": 0.7355,
     "blank_frac_before": 0.7173,
     "sha256": "db14f029884292e07e58da975c11bbb949bf3626b46f2d5fe0d788620aaebd52"
   },
   {
-    "source": "Post/c1fa36164536397b9ed6691da4780ccf485e366622adcc956d0342e8023978f0.png",
+    "source": "原图/c1fa36164536397b9ed6691da4780ccf485e366622adcc956d0342e8023978f0.png",
     "src_size": [
       1152,
       2048
@@ -950,14 +950,14 @@
     ],
     "blank_trimmed": false,
     "box": null,
-    "output": "c1fa36164536397b9ed6691da4780ccf485e366622adcc956d0342e8023978f0_758x1024.png",
+    "output": "成品/c1fa36164536397b9ed6691da4780ccf485e366622adcc956d0342e8023978f0_758x1024.png",
     "gray_levels": 16,
     "blank_frac": 0.5361,
     "blank_frac_before": 0.5631,
     "sha256": "4d2e3164d873d74f45d1cee4fb27b3ca7017eab80359090abb7252516cbb00d7"
   },
   {
-    "source": "Post/dc6d6f0b4ec0061998cd804f6866322d164e2b744841115c36310f368ed0be6d.png",
+    "source": "原图/dc6d6f0b4ec0061998cd804f6866322d164e2b744841115c36310f368ed0be6d.png",
     "src_size": [
       1152,
       2048
@@ -979,14 +979,14 @@
     ],
     "blank_trimmed": false,
     "box": null,
-    "output": "dc6d6f0b4ec0061998cd804f6866322d164e2b744841115c36310f368ed0be6d_758x1024.png",
+    "output": "成品/dc6d6f0b4ec0061998cd804f6866322d164e2b744841115c36310f368ed0be6d_758x1024.png",
     "gray_levels": 16,
     "blank_frac": 0.6818,
     "blank_frac_before": 0.679,
     "sha256": "863b25fa9f6a02f5870f29dadb6c5f3c26b6aa5b10f524bfc282e0a06c16232a"
   },
   {
-    "source": "comment/2f5a6ac398721cbddebd47faeb189bf69c1f988fbbd3a39342ab76b41200dd05.png",
+    "source": "原图/2f5a6ac398721cbddebd47faeb189bf69c1f988fbbd3a39342ab76b41200dd05.png",
     "src_size": [
       1440,
       2560
@@ -1008,14 +1008,14 @@
     ],
     "blank_trimmed": false,
     "box": null,
-    "output": "2f5a6ac398721cbddebd47faeb189bf69c1f988fbbd3a39342ab76b41200dd05_758x1024.png",
+    "output": "成品/2f5a6ac398721cbddebd47faeb189bf69c1f988fbbd3a39342ab76b41200dd05_758x1024.png",
     "gray_levels": 16,
     "blank_frac": 0.644,
     "blank_frac_before": 0.6512,
     "sha256": "80fee3ffecabf2c4422f38b200e32a45fd28949dc729adbe85f1663872bfdf48"
   },
   {
-    "source": "comment/318d5b9b6fd184cc36434eb15422fc8de755b191264cbcd0640fff4eb1cccafd.png",
+    "source": "原图/318d5b9b6fd184cc36434eb15422fc8de755b191264cbcd0640fff4eb1cccafd.png",
     "src_size": [
       1672,
       941
@@ -1037,14 +1037,14 @@
     ],
     "blank_trimmed": false,
     "box": null,
-    "output": "318d5b9b6fd184cc36434eb15422fc8de755b191264cbcd0640fff4eb1cccafd_758x1024.png",
+    "output": "成品/318d5b9b6fd184cc36434eb15422fc8de755b191264cbcd0640fff4eb1cccafd_758x1024.png",
     "gray_levels": 16,
     "blank_frac": 0.6992,
     "blank_frac_before": 0.6991,
     "sha256": "f03e8f4c169fd4f4fe8a445f5b2d0d39459d3075e13a6305cf6f63e6114748a2"
   },
   {
-    "source": "comment/44154f9119d5ddec2ecd7a36f27e6cc45ce5f54696532f64bbfe98dfd8152899.png",
+    "source": "原图/44154f9119d5ddec2ecd7a36f27e6cc45ce5f54696532f64bbfe98dfd8152899.png",
     "src_size": [
       941,
       1672
@@ -1066,14 +1066,14 @@
     ],
     "blank_trimmed": false,
     "box": null,
-    "output": "44154f9119d5ddec2ecd7a36f27e6cc45ce5f54696532f64bbfe98dfd8152899_758x1024.png",
+    "output": "成品/44154f9119d5ddec2ecd7a36f27e6cc45ce5f54696532f64bbfe98dfd8152899_758x1024.png",
     "gray_levels": 16,
     "blank_frac": 0.6455,
     "blank_frac_before": 0.6478,
     "sha256": "5499bf7eb0b807ee4f3e90ccd8ad8341a3f1de29affc525b00a21be95a56ff31"
   },
   {
-    "source": "comment/54a68b96a1bf37cf52815f0ee37109d1d1f1f349e5f6271c093c6b7ccf73ffe3.png",
+    "source": "原图/54a68b96a1bf37cf52815f0ee37109d1d1f1f349e5f6271c093c6b7ccf73ffe3.png",
     "src_size": [
       1024,
       1536
@@ -1095,14 +1095,14 @@
     ],
     "blank_trimmed": false,
     "box": null,
-    "output": "54a68b96a1bf37cf52815f0ee37109d1d1f1f349e5f6271c093c6b7ccf73ffe3_758x1024.png",
+    "output": "成品/54a68b96a1bf37cf52815f0ee37109d1d1f1f349e5f6271c093c6b7ccf73ffe3_758x1024.png",
     "gray_levels": 16,
     "blank_frac": 0.5991,
     "blank_frac_before": 0.6011,
     "sha256": "807509b3613af5c213e03b67bd028f413ee4bd5ecee0c25479d7663ff3c206f7"
   },
   {
-    "source": "comment/952e6ea699a4bb4b5909a8f328fd766d1441a3a101d72d2b4fb1053b4cd3e737.png",
+    "source": "原图/952e6ea699a4bb4b5909a8f328fd766d1441a3a101d72d2b4fb1053b4cd3e737.png",
     "src_size": [
       1152,
       2048
@@ -1124,14 +1124,14 @@
     ],
     "blank_trimmed": false,
     "box": null,
-    "output": "952e6ea699a4bb4b5909a8f328fd766d1441a3a101d72d2b4fb1053b4cd3e737_758x1024.png",
+    "output": "成品/952e6ea699a4bb4b5909a8f328fd766d1441a3a101d72d2b4fb1053b4cd3e737_758x1024.png",
     "gray_levels": 16,
     "blank_frac": 0.689,
     "blank_frac_before": 0.696,
     "sha256": "0a266a5f6c9c87eef697de00afc01233d3ac26abb3097fa1a342763c7a587305"
   },
   {
-    "source": "comment/a4e7a49e6da150424b6c90c43f38cba2da882c299d7d00f14b44d291d3db11b0.jpg",
+    "source": "原图/a4e7a49e6da150424b6c90c43f38cba2da882c299d7d00f14b44d291d3db11b0.jpg",
     "src_size": [
       1080,
       1935
@@ -1153,7 +1153,7 @@
     ],
     "blank_trimmed": false,
     "box": null,
-    "output": "a4e7a49e6da150424b6c90c43f38cba2da882c299d7d00f14b44d291d3db11b0_758x1024.png",
+    "output": "成品/a4e7a49e6da150424b6c90c43f38cba2da882c299d7d00f14b44d291d3db11b0_758x1024.png",
     "gray_levels": 16,
     "blank_frac": 0.6677,
     "blank_frac_before": 0.6679,
